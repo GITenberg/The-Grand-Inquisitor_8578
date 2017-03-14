@@ -1,5 +1,5 @@
 _repo: The-Grand-Inquisitor_8578
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Blavatsky, H. P. (Helena Petrovna)
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '2154'
     url: http://www.gutenberg.org/2009/agents/2154
     wikipedia: http://en.wikipedia.org/wiki/Helena_Petrovna_Blavatsky
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dostoyevsky, Fyodor
@@ -36,6 +39,8 @@ description: "\"The Grand Inquisitor\" is a parable in Fyodor Dostoyevsky's nove
   \ as a major inspiration for Dostoyevsky's Grand Inquisitor, while also noting that\
   \ \"The sources of the legend are extraordinarily varied and complex.\"\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8578#The-Grand-Inquisitor
 gutenberg_bookshelf: Racism
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
